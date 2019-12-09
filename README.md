@@ -1,2 +1,2 @@
 # hello-world
-shitty stuff
+not that bad stuff
